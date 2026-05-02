@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
 FoodRadar AI - Ollama Destekli Yemek Fiyat Karşılaştırma ve Görselleştirme Uygulaması
 
 Kullanım:
