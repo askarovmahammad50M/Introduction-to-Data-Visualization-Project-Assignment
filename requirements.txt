@@ -1,4 +1,4 @@
 requests
 pyperclip
-pynput
 pyautogui
+pynput
